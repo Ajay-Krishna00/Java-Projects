@@ -58,5 +58,5 @@ This repository is licensed under the MIT License. You are free to use, modify, 
 
 If you have any questions or suggestions, feel free to reach out:
 
-### GitHub: Ajay-Krishna00
-### Email: your-email@example.com
+ GitHub: Ajay-Krishna00
+ Email: enthusiastajay00@gmail.com
